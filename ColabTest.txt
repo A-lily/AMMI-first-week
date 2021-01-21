@@ -1,2 +1,0 @@
-The files can be either empty or you can
-write anything of your choice inside
